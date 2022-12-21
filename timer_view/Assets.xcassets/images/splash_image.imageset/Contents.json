@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "undraw_Time_management_re_tk5w-removebg-preview@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "undraw_Time_management_re_tk5w-removebg-preview@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "undraw_Time_management_re_tk5w-removebg-preview@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
